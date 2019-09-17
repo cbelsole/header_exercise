@@ -7,12 +7,12 @@ import { Router } from '@reach/router'
 
 const App: React.FC = () => {
   return (
-      <Router>
-        <Home path="/"></Home>
-        <About path="/about"></About>
-        <ContactUs path="/contact"></ContactUs>
-        <Login path="/login"></Login>
-      </Router>
+    <Router>
+      <Home path="/"></Home>
+      <About path="/about"></About>
+      <ContactUs path="/contact"></ContactUs>
+      <Login path="/login"></Login>
+    </Router>
   )
 }
 
