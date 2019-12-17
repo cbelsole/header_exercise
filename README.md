@@ -1,4 +1,27 @@
-# header_exercise
+# Header exercise
+
+For this exercise we are going to make a header for our website with a:
+
+- Company logo linked to homepage
+- Links for:
+  - About
+  - Contact Us
+- Right aligned login button which when clicked brings you to the login page.
+  - Once you login it changes to a logout button that should log the user out.
+- Mobile first design:
+  - On mobile the header should be a logo and a hamburger menu containing all links and buttons.
+  - On desktop the header should be a full width bar across the top of the page containing all links and buttons.
+
+## Technology used
+
+- React
+- Reach router
+- ESLint
+- Typescript
+- JSX
+- CSS
+
+# Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
