@@ -2,14 +2,14 @@
 
 For this exercise we are going to make a header for our website with a:
 
-- Company logo linked to homepage
+- Company name linked to homepage
 - Links for:
   - About
   - Contact Us
 - Right aligned login button which when clicked brings you to the login page.
   - Once you login it changes to a logout button that should log the user out.
 - Mobile first design:
-  - On mobile the header should be a logo and a hamburger menu containing all links and buttons.
+  - On mobile the header should be a logo and a menu containing all links and buttons.
   - On desktop the header should be a full width bar across the top of the page containing all links and buttons.
 
 ## Technology used

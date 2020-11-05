@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Home: React.SFC<any> = () => {
+const Home: React.FC<any> = () => {
   return <h1>Home</h1>
 }
 

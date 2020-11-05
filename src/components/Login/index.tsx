@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-const Login: React.SFC<any> = () => {
+const Login: React.FC<any> = () => {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [login, setLogin] = useState(sessionStorage.getItem('login') || "false")
